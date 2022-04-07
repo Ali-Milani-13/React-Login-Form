@@ -42,5 +42,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "<h1 align=\"center\">Welcome to React-Login-Form 👋</h1>\r <p>\r   <a href=\"https://opensource.org/licenses/BSD-3-Clause\" target=\"_blank\">\r     <img alt=\"License: BSD\" src=\"https://img.shields.io/badge/License-BSD-yellow.svg\" />\r   </a>\r </p>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-Milani-13/React-Login-Form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ali-Milani-13/React-Login-Form/issues"
+  },
+  "homepage": "https://github.com/Ali-Milani-13/React-Login-Form#readme"
 }
