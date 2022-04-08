@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a29fa526.css",
-    "main.js": "/static/js/main.d1d59bd7.js",
-    "static/js/787.480af86e.chunk.js": "/static/js/787.480af86e.chunk.js",
-    "static/media/BackgroundImage.jpg": "/static/media/BackgroundImage.faf259fa1ba233c4addf.jpg",
-    "index.html": "/index.html",
-    "main.a29fa526.css.map": "/static/css/main.a29fa526.css.map",
-    "main.d1d59bd7.js.map": "/static/js/main.d1d59bd7.js.map",
-    "787.480af86e.chunk.js.map": "/static/js/787.480af86e.chunk.js.map"
+    "main.css": "/React-Login-Form/static/css/main.7c0afed5.css",
+    "main.js": "/React-Login-Form/static/js/main.d3193f90.js",
+    "static/js/787.480af86e.chunk.js": "/React-Login-Form/static/js/787.480af86e.chunk.js",
+    "static/media/BackgroundImage.jpg": "/React-Login-Form/static/media/BackgroundImage.faf259fa1ba233c4addf.jpg",
+    "index.html": "/React-Login-Form/index.html",
+    "main.7c0afed5.css.map": "/React-Login-Form/static/css/main.7c0afed5.css.map",
+    "main.d3193f90.js.map": "/React-Login-Form/static/js/main.d3193f90.js.map",
+    "787.480af86e.chunk.js.map": "/React-Login-Form/static/js/787.480af86e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a29fa526.css",
-    "static/js/main.d1d59bd7.js"
+    "static/css/main.7c0afed5.css",
+    "static/js/main.d3193f90.js"
   ]
 }
