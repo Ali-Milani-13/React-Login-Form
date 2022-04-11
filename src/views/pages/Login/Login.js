@@ -1,10 +1,13 @@
-import React from "react";
-import LoginForm from "../../../components/LoginForm/LoginForm";
-
+import React, { Suspense } from "react";
+const LoginForm = React.lazy(() =>
+  import("../../../components/LoginForm/LoginForm")
+);
 const Login = () => {
   return (
     <>
-      <LoginForm />
+      <Suspense fallback={<div>Loading...</div>}>
+        <LoginForm />
+      </Suspense>
     </>
   );
 };

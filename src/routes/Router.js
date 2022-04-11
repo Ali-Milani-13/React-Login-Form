@@ -5,6 +5,7 @@ import Login from "../views/pages/Login/Login";
 const Router = () => {
   return (
     <Routes>
+      <Route path="/React-Login-Form" element={<SignUp />} />
       <Route path="/" element={<SignUp />} />
       <Route path="/signup" element={<SignUp />} />
       <Route path="/Login" element={<Login />} />

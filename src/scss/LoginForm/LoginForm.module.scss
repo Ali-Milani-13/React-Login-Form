@@ -3,11 +3,13 @@
   flex-direction: column;
   justify-content: center;
   margin-top: 10%;
+  width: 50%;
   gap: 5em;
   * {
     color: white;
   }
   @media screen and (max-width: 768px) {
     margin-top: 20%;
+    width: 20em;
   }
 }

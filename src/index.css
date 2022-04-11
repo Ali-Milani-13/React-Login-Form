@@ -9,7 +9,9 @@
 }
 body {
   height: 100vh;
-  background-image: url("./assets/Images/BackgroundImage.jpg");
+  background: url("https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg");
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;

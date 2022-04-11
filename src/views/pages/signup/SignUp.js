@@ -1,8 +1,13 @@
-import React from "react";
-import Form from "../../../components/Form/Form";
-
+import React, { Suspense } from "react";
+const Form = React.lazy(() => import("../../../components/Form/Form"));
 const SignUp = () => {
-  return <Form />;
+  return (
+    <>
+      <Suspense fallback={<div>Loading...</div>}>
+        <Form />
+      </Suspense>
+    </>
+  );
 };
 
 export default SignUp;
